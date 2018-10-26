@@ -1,7 +1,7 @@
 {
   "name": "CustomiseTranslations",
   "description": "This plugin allows you to modify all translateable strings in Matomo",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "theme": false,
   "require": {
     "piwik": ">=3.6.0,<4.0.0-b1"
@@ -15,9 +15,9 @@
   ],
   "support": {
     "email": "lukas@matomo.org",
-    "issues": "https://github.com/Findus23/plugin-LanguageToogle/issues",
+    "issues": "https://github.com/Findus23/plugin-CustomiseTranslations/issues",
     "forum": "https://forum.matomo.org",
-    "source": "https://github.com/Findus23/plugin-LanguageToogle"
+    "source": "https://github.com/Findus23/plugin-CustomiseTranslations"
   },
   "homepage": "https://lw1.at",
   "license": "GPL v3+",
