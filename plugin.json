@@ -1,7 +1,7 @@
 {
   "name": "CustomiseTranslations",
   "description": "This plugin allows you to modify all translateable strings in Matomo",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "theme": false,
   "require": {
     "piwik": ">=3.6.0,<4.0.0-b1"

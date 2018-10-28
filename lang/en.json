@@ -2,9 +2,9 @@
   "CustomiseTranslations": {
     "MisingUnderscore": "Please format the Key like this: 'PluginName_TranslationKey'.",
     "InvalidPlugin": "The plugin '%s' doesn't exist.",
-    "InvalidKey": "The tranlation key '%s' doesn't exist.",
+    "InvalidKey": "The translation key '%s' doesn't exist.",
     "Description": "You can modify translations by entering the key (e.g. 'PrivacyManager_TermsAndConditions') into the first column and writing your replacement into the textbox.",
-    "TranslationKey": "Tranlation Key",
+    "TranslationKey": "Translation Key",
     "Replacement": "Replacement"
   }
 }
