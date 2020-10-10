@@ -1,3 +1,5 @@
 ## Changelog
 
-Here goes the changelog text.
+# 0.2.0
+
+Allow translating "General", "Mobile" and "RowEvolution" translation strings.

@@ -27,6 +27,9 @@ class SystemSettings extends \Piwik\Settings\Plugin\SystemSettings
     private function createTranslationsSetting() {
         return $this->makeSetting('translations', array(), FieldConfig::TYPE_ARRAY, function (FieldConfig $field) {
             $plugins = Manager::getAllPluginsNames();
+            $plugins[] = "General";
+            $plugins[] = "Mobile";
+            $plugins[] = "RowEvolution";
             $field->description = Piwik::translate('CustomiseTranslations_Description');
             $field->uiControl = FieldConfig::UI_CONTROL_MULTI_TUPLE;
             $field1 = new FieldConfig\MultiPair(Piwik::translate('CustomiseTranslations_TranslationKey'), 'translationKey', FieldConfig::UI_CONTROL_TEXT);
