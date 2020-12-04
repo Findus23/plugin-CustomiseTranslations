@@ -1,5 +1,5 @@
 <?php
 
 return array(
-    'Piwik\Translation\Loader\JsonFileLoader' => DI\object('Piwik\Plugins\CustomiseTranslations\MyCustomLoader'),
+    'Piwik\Translation\Loader\JsonFileLoader' => DI\autowire('Piwik\Plugins\CustomiseTranslations\MyCustomLoader'),
 );
