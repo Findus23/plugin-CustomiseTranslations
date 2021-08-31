@@ -1,10 +1,10 @@
 {
-  "CustomiseTranslations": {
-    "MisingUnderscore": "Bitte formatieren sie den Key so: 'PluginName_TranslationKey'.",
-    "InvalidPlugin": "Das Plugin '%s' exisistiert nicht.",
-    "InvalidKey": "Der Übersetzungs-Key '%s' exisistiert nicht.",
-    "Description": "Sie können existierende Übersetzungen bearbeiten, indem sie den Key (e.g. 'PrivacyManager_TermsAndConditions') in die erste Spalte und den neuen Text in die zweite Spalte schreiben.",
-    "TranslationKey": "Übersetzungs-Key",
-    "Replacement": "Ersatztext"
-  }
+    "CustomiseTranslations": {
+        "MisingUnderscore": "Bitte formatieren sie den Key so: 'PluginName_TranslationKey'.",
+        "InvalidPlugin": "Das Plugin '%s' existiert nicht.",
+        "InvalidKey": "Der Übersetzungs-Key '%s' existiert nicht.",
+        "Description": "Sie können existierende Übersetzungen bearbeiten, indem sie den Key (e.g. 'PrivacyManager_TermsAndConditions') in die erste Spalte und den neuen Text in die zweite Spalte schreiben.",
+        "TranslationKey": "Übersetzungs-Key",
+        "Replacement": "Ersatztext"
+    }
 }
