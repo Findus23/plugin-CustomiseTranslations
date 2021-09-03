@@ -1,1 +1,10 @@
-{}
+{
+    "CustomiseTranslations": {
+        "Description": "Puoi modificare le traduzioni inserendo la chiave (es. \"PrivacyManager_TermsAndConditions\") nella prima colonna e scrivendo la tua sostituzione nella casella di testo.",
+        "InvalidKey": "La chiave di traduzione '%s' non esiste.",
+        "InvalidPlugin": "Il plugin '%s' non esiste.",
+        "MisingUnderscore": "Si prega di formattare questa Chiave in questo modo: 'PluginName_TranslationKey'.",
+        "Replacement": "Sostituzione",
+        "TranslationKey": "Chiave di Traduzione"
+    }
+}
