@@ -1,1 +1,10 @@
-{}
+{
+    "CustomiseTranslations": {
+        "Description": "Μπορείτε να τροποποιήσετε μεταφράσεις εισάγοντας το κλειδί (πχ. 'PrivacyManager_TermsAndConditions') στην πρώτη στήλη και γράφοντας την αντικατάσταση στο πεδίο κειμένου.",
+        "InvalidKey": "Το κλειδί μετάφρασης '%s' δεν υπάρχει.",
+        "InvalidPlugin": "Το πρόσθετο '%s' δεν υπάρχει.",
+        "MisingUnderscore": "Παρακαλώ μορφοποιήστε το Κλειδί ως εξής: 'PluginName_TranslationKey'.",
+        "Replacement": "Αντικατάσταση",
+        "TranslationKey": "Κλειδί Μετάφρασης"
+    }
+}
