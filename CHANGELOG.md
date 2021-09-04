@@ -1,5 +1,9 @@
 ## Changelog
 
+## 1.0.2
+
+add German, Greek, Italian and Turkish translations
+
 ## 1.0.1
 
 fix DI (thanks to @Aramics)
