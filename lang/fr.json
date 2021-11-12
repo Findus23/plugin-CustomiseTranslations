@@ -1,1 +1,10 @@
-{}
+{
+    "CustomiseTranslations": {
+        "Description": "Vous pouvez modifier les traductions en saisissant la clé (par exemple, « PrivacyManager_TermsAndConditions ») dans la première colonne et en écrivant votre remplacement dans la zone de texte.",
+        "InvalidKey": "La clé de traduction '%s' n'existe pas.",
+        "InvalidPlugin": "Le plugin '%s' n'existe pas.",
+        "MisingUnderscore": "Veuillez formater la clé comme ceci : 'PluginName_TranslationKey'.",
+        "Replacement": "Remplacement",
+        "TranslationKey": "Clé de traduction"
+    }
+}
