@@ -1,1 +1,10 @@
-{}
+{
+    "CustomiseTranslations": {
+        "Description": "Ви можете змінити переклад, ввівши ключ (наприклад, \"PrivacyManager_TermsAndConditions\") у перший стовпець і вписавши заміну в текстове поле.",
+        "InvalidKey": "Ключа перекладу «%s» не існує.",
+        "InvalidPlugin": "Плагіна «%s» не існує.",
+        "MisingUnderscore": "Будь ласка, відформатуйте ключ так: 'НазваПлагіна_КлючПерекладу'.",
+        "Replacement": "Заміна",
+        "TranslationKey": "Ключ перекладу"
+    }
+}

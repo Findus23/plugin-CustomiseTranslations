@@ -1,1 +1,10 @@
-{}
+{
+    "CustomiseTranslations": {
+        "Description": "最初の列にキー（例：'PrivacyManager_TermsAndConditions'）を入力し、テキストボックスに置き換えを書き込むことで、翻訳を修正することができます。",
+        "InvalidKey": "翻訳キー '%s' は存在しません。",
+        "InvalidPlugin": "プラグイン「%s」は存在しません。",
+        "MisingUnderscore": "Keyを以下のようにフォーマットしてください。'PluginName_TranslationKey'.",
+        "Replacement": "置換",
+        "TranslationKey": "翻訳キー"
+    }
+}
