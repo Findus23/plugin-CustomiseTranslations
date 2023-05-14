@@ -1,1 +1,6 @@
-{}
+{
+    "CustomiseTranslations": {
+        "InvalidPlugin": "外掛「%s」不存在。",
+        "MisingUnderscore": "請按格式設定鍵名：「PluginName_TranslationKey」。"
+    }
+}
