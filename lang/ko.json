@@ -1,1 +1,10 @@
-{}
+{
+    "CustomiseTranslations": {
+        "Description": "첫 번째 열에 키(예: 'PrivacyManager_TermsAndConditions')를 입력하고 텍스트 상자에 대체 항목을 작성하여 번역을 수정할 수 있습니다.",
+        "InvalidKey": "번역 키 '%s'이(가) 존재하지 않습니다.",
+        "InvalidPlugin": "'%s' 플러그인이 존재하지 않습니다.",
+        "MisingUnderscore": "다음과 같이 키 형식을 지정하십시오: 'PluginName_TranslationKey'.",
+        "Replacement": "교체",
+        "TranslationKey": "번역 키"
+    }
+}
