@@ -1,1 +1,10 @@
-{}
+{
+    "CustomiseTranslations": {
+        "Description": "Puede modificar las traducciones ingresando la clave (por ejemplo, 'PrivacyManager_TermsAndConditions') en la primera columna y escribiendo su reemplazo en el cuadro de texto.",
+        "InvalidKey": "La clave de la traducción '%s' no existe.",
+        "InvalidPlugin": "El complemento '%s' no existe.",
+        "MisingUnderscore": "Por favor, formatee la clave de esta manera: 'PluginName_TranslationKey'.",
+        "Replacement": "Reemplazo",
+        "TranslationKey": "Clave de la traducción"
+    }
+}
