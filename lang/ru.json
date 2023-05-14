@@ -1,1 +1,5 @@
-{}
+{
+    "CustomiseTranslations": {
+        "MisingUnderscore": "Пожалуйста отформатируйте ключ следующим образом: 'PluginName_TranslationKey'."
+    }
+}
