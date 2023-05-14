@@ -1,1 +1,10 @@
-{}
+{
+    "CustomiseTranslations": {
+        "Description": "Можете да промените преводите, като въведете ключа (напр. „PrivacyManager_TermsAndConditions“) в първата колона и напишете своята замяна в текстовото поле.",
+        "InvalidKey": "Ключът за превод „%s“ не съществува.",
+        "InvalidPlugin": "Плъгинът '%s' не съществува.",
+        "MisingUnderscore": "Моля, форматирайте ключа така: 'PluginName_TranslationKey'.",
+        "Replacement": "Замяна",
+        "TranslationKey": "Ключ за превод"
+    }
+}
