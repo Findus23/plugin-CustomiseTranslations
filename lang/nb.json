@@ -1,1 +1,10 @@
-{}
+{
+    "CustomiseTranslations": {
+        "Description": "Du kan endre oversettelser ved å skrive inn nøkkelen (f.eks. «PrivacyManager_TermsAndConditions») i første kolonne og skrive det den skal erstattes med i tekstfeltet.",
+        "InvalidKey": "Oversettelsesnøkkelen «%s» finnes ikke.",
+        "InvalidPlugin": "Programtillegget «%s» finnes ikke.",
+        "MisingUnderscore": "Formater nøkkelen slik: «Programtilleggsnavn_Oversettelsesnøkkel».",
+        "Replacement": "Erstatning",
+        "TranslationKey": "Oversettelsesnøkkel"
+    }
+}
