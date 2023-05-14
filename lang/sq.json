@@ -1,1 +1,10 @@
-{}
+{
+    "CustomiseTranslations": {
+        "Description": "Përkthimet mund t’i ndryshoni duke dhënë zërin (p.sh., 'PrivacyManager_TermsAndConditions') te shtylla e parë dhe duke shkruar zëvendësimin tuaj te kuadrati i teksteve.",
+        "InvalidKey": "Zëri i përkthimit '%s' s’ekziston.",
+        "InvalidPlugin": "Shtojca '%s' s’ekziston.",
+        "MisingUnderscore": "Ju lutemi, formatojeni Zërin kështu: 'PluginName_TranslationKey'.",
+        "Replacement": "Zëvendësim",
+        "TranslationKey": "Zë Përkthimi"
+    }
+}
