@@ -1,1 +1,10 @@
-{}
+{
+    "CustomiseTranslations": {
+        "Description": "Anda dapat memodifikasi terjemahan dengan memasukkan kunci (misalnya 'PrivacyManager_TermsAndConditions') ke kolom pertama dan menulis penggantinya ke dalam kotak teks.",
+        "InvalidKey": "Kunci terjemahan '%s' tidak ada.",
+        "InvalidPlugin": "Pengaya '%s' tidak ada.",
+        "MisingUnderscore": "Harap buat format Kunci seperti ini: 'PluginName_TranslationKey'.",
+        "Replacement": "Penggantian",
+        "TranslationKey": "Kunci Terjemahan"
+    }
+}
