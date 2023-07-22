@@ -1,1 +1,10 @@
-{}
+{
+    "CustomiseTranslations": {
+        "Description": "U kunt vertalingen wijzigen door de sleutel (bijvoorbeeld 'PrivacyManager_TermsAndConditions') in de eerste kolom in te voeren en uw vervanging in het tekstvak te schrijven.",
+        "InvalidKey": "De vertaalsleutel '%s' bestaat niet.",
+        "InvalidPlugin": "De plug-in '%s' bestaat niet.",
+        "MisingUnderscore": "Formatteer de sleutel als volgt: 'PluginName_TranslationKey'.",
+        "Replacement": "Vervanging",
+        "TranslationKey": "Vertaalsleutel"
+    }
+}

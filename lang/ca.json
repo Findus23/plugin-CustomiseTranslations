@@ -1,1 +1,10 @@
-{}
+{
+    "CustomiseTranslations": {
+        "Description": "Podeu modificar les traduccions introduint la clau (p. ex., 'PrivacyManager_TermsAndConditions') a la primera columna i escrivint la vostra proposta al quadre de text.",
+        "InvalidKey": "La clau de traducció '%s' no existeix.",
+        "InvalidPlugin": "El connector '%s' no existeix.",
+        "MisingUnderscore": "Formateu la clau de la següent manera: 'PluginName_TranslationKey'.",
+        "Replacement": "Proposta",
+        "TranslationKey": "Clau de traducció"
+    }
+}

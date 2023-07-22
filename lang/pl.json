@@ -1,1 +1,10 @@
-{}
+{
+    "CustomiseTranslations": {
+        "Description": "Możesz modyfikować tłumaczenia wpisując klucz (np. 'PrivacyManager_TermsAndConditions') w pierwszej kolumnie i wpisując swoją zamianę w polu tekstowym.",
+        "InvalidKey": "Klucz tłumaczeniowy '%s' nie istnieje.",
+        "InvalidPlugin": "Wtyczka \"%s\" nie istnieje.",
+        "MisingUnderscore": "Proszę sformatować klucz w ten sposób: \"PluginName_TranslationKey\".",
+        "Replacement": "Zamiana",
+        "TranslationKey": "Klucz do tłumaczenia"
+    }
+}

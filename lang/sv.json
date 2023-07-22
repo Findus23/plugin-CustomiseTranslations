@@ -1,1 +1,10 @@
-{}
+{
+    "CustomiseTranslations": {
+        "Description": "Du kan ändra översättningar genom att ange nyckeln (t.ex. \"PrivacyManager_TermsAndConditions\") i den första kolumnen och skriva din ersättning i textrutan.",
+        "InvalidKey": "Översättningsnyckeln '%s' finns inte.",
+        "InvalidPlugin": "Pluginet '%s' finns inte.",
+        "MisingUnderscore": "Vänligen formatera Nyckeln så här: 'PluginName_TranslationKey'.",
+        "Replacement": "Ersättning",
+        "TranslationKey": "Översättningsnyckel"
+    }
+}
