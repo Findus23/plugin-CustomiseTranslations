@@ -1,5 +1,9 @@
 ## Changelog
 
+## 1.1.0
+
+Matomo 5 compatibility
+
 ## 1.0.3
 
 add French, Japanese, Portuguese, Portuguese (Brazil) and Ukrainian translations
