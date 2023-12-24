@@ -1,6 +1,10 @@
 {
     "CustomiseTranslations": {
+        "Description": "在第一行輸入鍵名（如「PrivacyManager_TermsAndConditions」）並在文本框中輸入替換文本即可更改翻譯。",
+        "InvalidKey": "翻譯鍵「%s」不存在。",
         "InvalidPlugin": "外掛「%s」不存在。",
-        "MisingUnderscore": "請按格式設定鍵名：「PluginName_TranslationKey」。"
+        "MisingUnderscore": "請按格式設定鍵名：「PluginName_TranslationKey」。",
+        "Replacement": "替換",
+        "TranslationKey": "翻譯鍵"
     }
 }
