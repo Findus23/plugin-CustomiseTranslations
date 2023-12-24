@@ -1,0 +1,10 @@
+{
+    "CustomiseTranslations": {
+        "Description": "તમે પ્રથમ કૉલમમાં અને ટેક્સ્ટબોક્સમાં કી દાખલ કરીને અનુવાદોને બદલી શકો છો (દા.ત. 'PrivacyManager_TermsAndConditions').",
+        "InvalidKey": "અનુવાદ કી '%s' અસ્તિત્વમાં નથી.",
+        "InvalidPlugin": "પ્લગઇન '%s' અસ્તિત્વમાં નથી.",
+        "MisingUnderscore": "કૃપા કરીને કીને આ રીતે ફોર્મેટ કરો: 'PluginName_TranslationKey'.",
+        "Replacement": "બદલી",
+        "TranslationKey": "અનુવાદ કી"
+    }
+}
