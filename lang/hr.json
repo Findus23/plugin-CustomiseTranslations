@@ -1,1 +1,10 @@
-{}
+{
+    "CustomiseTranslations": {
+        "Description": "Prijevode možeš promijeniti unosom ključa (npr. 'PrivacyManager_TermsAndConditions') u prvi stupac i upisivanjem zamjenskog teksta u tekstualni okvir.",
+        "InvalidKey": "Ključ prijevoda „%s” ne postoji.",
+        "InvalidPlugin": "Dodatak „%s” ne postoji.",
+        "MisingUnderscore": "Formatiraj ključ ovako: 'PluginName_TranslationKey'.",
+        "Replacement": "Zamjena",
+        "TranslationKey": "Ključ prijevoda"
+    }
+}

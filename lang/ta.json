@@ -1,1 +1,10 @@
-{}
+{
+    "CustomiseTranslations": {
+        "Description": "முதல் நெடுவரிசையில் விசையை (எ.கா. privacymanager_termsandConditions ') உள்ளிட்டு மொழிபெயர்ப்புகளை மாற்றலாம் மற்றும் உங்கள் மாற்றீட்டை உரைப்பெட்டியில் எழுதலாம்.",
+        "InvalidKey": "மொழிபெயர்ப்பு விசை '%s' இல்லை.",
+        "InvalidPlugin": "சொருகி '%s' இல்லை.",
+        "MisingUnderscore": "தயவுசெய்து இதுபோன்ற விசையை வடிவமைக்கவும்: 'polaginame_translationkey'.",
+        "Replacement": "மாற்று",
+        "TranslationKey": "மொழிபெயர்ப்பு விசை"
+    }
+}

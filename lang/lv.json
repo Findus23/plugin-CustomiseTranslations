@@ -1,1 +1,10 @@
-{}
+{
+    "CustomiseTranslations": {
+        "Description": "Jūs varat mainīt tulkojumus, ievadot atslēgu (piemēram, \"PrivacyManager_TermsAndConditions\") pirmajā kolonnā un ierakstot savu aizstājēju teksta laukā.",
+        "InvalidKey": "Tulkojuma atslēga \"%s\" netika atrasta.",
+        "InvalidPlugin": "Spraudnis \"%s\" netika atrasts.",
+        "MisingUnderscore": "Lūdzu, formatējiet atslēgu šādi: \"PluginName_TranslationKey\".",
+        "Replacement": "Aizstājējs",
+        "TranslationKey": "Tulkošanas atslēga"
+    }
+}

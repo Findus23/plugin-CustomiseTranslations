@@ -1,6 +1,6 @@
 {
     "CustomiseTranslations": {
-        "Description": "İlk sütuna anahtarı ('PrivacyManager_TermsAndConditions' gibi) ve metin kutusuna değiştirmek istediğiniz çeviriyi yazabilirsiniz.",
+        "Description": "İlk sütuna anahtarı ('PrivacyManager_TermsAndConditions' gibi) ve yazı kutusuna değiştirmek istediğiniz çeviriyi yazabilirsiniz.",
         "InvalidKey": "'%s' çeviri anahtarı bulunamadı.",
         "InvalidPlugin": "'%s' eklentisi bulunamadı.",
         "MisingUnderscore": "Lütfen anahtarı şu şekilde biçimlendirin: 'PluginName_TranslationKey'.",

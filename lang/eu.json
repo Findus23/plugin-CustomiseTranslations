@@ -1,1 +1,10 @@
-{}
+{
+    "CustomiseTranslations": {
+        "Description": "Itzulpenak aldatu ditzakezu gakoa (adibidez 'PrivacyManager_TermsAndConditions') lehen zutabean sartuz eta ordezko itzulpena testu-koadroan idatziz.",
+        "InvalidKey": "'%s' itzulpen-gakoa ez da existitzen.",
+        "InvalidPlugin": "'%s' plugina ez da existitzen.",
+        "MisingUnderscore": "Eman hau bezalako formatua gakoari: 'PluginIzena_ItzulpenGakoa'.",
+        "Replacement": "Ordezkoa",
+        "TranslationKey": "Itzulpen-gakoa"
+    }
+}

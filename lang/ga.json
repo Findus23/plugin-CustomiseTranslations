@@ -1,1 +1,10 @@
-{}
+{
+    "CustomiseTranslations": {
+        "Description": "Is féidir leat aistriúcháin a mhionathrú tríd an eochair (m.sh. ‘PrivacyManager_TermsAndConditions’) a chur isteach sa chéad cholún agus an eochair a scríobh isteach sa bhosca téacs.",
+        "InvalidKey": "Níl an eochair aistriúcháin '%s' ann.",
+        "InvalidPlugin": "Níl an breiseán '%s' ann.",
+        "MisingUnderscore": "Formáidigh an Eochair mar seo: 'PluginName_TranslationKey'.",
+        "Replacement": "Athsholáthar",
+        "TranslationKey": "Eochair Aistriúcháin"
+    }
+}

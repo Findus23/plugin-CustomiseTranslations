@@ -1,1 +1,10 @@
-{}
+{
+    "CustomiseTranslations": {
+        "Description": "Du kan endre omsetjingar ved å skrive nøkkelen (t.d. 'PrivacyManager_TermsAndConditions') i den første kolonnen og erstatninga i tekstfeltet.",
+        "InvalidKey": "Omsetjingsnøkkelen «%s» finst ikkje.",
+        "InvalidPlugin": "Innstikket «%s» finst ikkje.",
+        "MisingUnderscore": "Formater nøkkelen slik: 'PluginName_TranslationKey'.",
+        "Replacement": "Erstatning",
+        "TranslationKey": "Omsetjingsnøkkel"
+    }
+}

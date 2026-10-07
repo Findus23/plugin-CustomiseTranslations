@@ -1,1 +1,10 @@
-{}
+{
+    "CustomiseTranslations": {
+        "Description": "Překlady můžete upravit zadáním klíče (např. \"PrivacyManager_TermsAndConditions\") do prvního sloupce a zapsáním náhrady do textového pole.",
+        "InvalidKey": "Překladový klíč '%s' neexistuje.",
+        "InvalidPlugin": "Zásuvný modul '%s' neexistuje.",
+        "MisingUnderscore": "Formátujte prosím klíč takto: \"PluginName_TranslationKey\".",
+        "Replacement": "Náhrada",
+        "TranslationKey": "Překladový klíč"
+    }
+}

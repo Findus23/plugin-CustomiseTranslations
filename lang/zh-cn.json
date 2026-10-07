@@ -1,1 +1,10 @@
-{}
+{
+    "CustomiseTranslations": {
+        "Description": "在第一行输入键名（如“PrivacyManager_TermsAndConditions”）并在文本框中输入替换文本即可修改翻译。",
+        "InvalidKey": "翻译键名“%s”不存在。",
+        "InvalidPlugin": "插件“%s”不存在。",
+        "MisingUnderscore": "请按格式设置键名：“PluginName_TranslationKey”。",
+        "Replacement": "替换",
+        "TranslationKey": "翻译键"
+    }
+}

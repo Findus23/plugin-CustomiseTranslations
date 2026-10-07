@@ -1,1 +1,10 @@
-{}
+{
+    "CustomiseTranslations": {
+        "Description": "Voit muokata käännöksiä syöttämällä avaimen (esim. 'PrivacyManager_TermsAndConditions') ensimmäiseen sarakkeeseen ja kirjoittamalla korvaavan tekstin tekstikenttään.",
+        "InvalidKey": "Käännösavainta '%s' ei ole olemassa.",
+        "InvalidPlugin": "Liitännäistä '%s' ei ole olemassa.",
+        "MisingUnderscore": "Muotoile avain näin: 'LiitännäisenNimi_KäännösAvain'.",
+        "Replacement": "Korvaaminen",
+        "TranslationKey": "Käännösavain"
+    }
+}
